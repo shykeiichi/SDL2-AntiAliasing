@@ -1,0 +1,16 @@
+/home/keiichi/Coding/C#/SDL2/obj/Debug/net6.0/SDL2.csproj.AssemblyReference.cache
+/home/keiichi/Coding/C#/SDL2/obj/Debug/net6.0/SDL2.GeneratedMSBuildEditorConfig.editorconfig
+/home/keiichi/Coding/C#/SDL2/obj/Debug/net6.0/SDL2.AssemblyInfoInputs.cache
+/home/keiichi/Coding/C#/SDL2/obj/Debug/net6.0/SDL2.AssemblyInfo.cs
+/home/keiichi/Coding/C#/SDL2/obj/Debug/net6.0/SDL2.csproj.CoreCompileInputs.cache
+/home/keiichi/Coding/C#/SDL2/bin/Debug/net6.0/SDL2
+/home/keiichi/Coding/C#/SDL2/bin/Debug/net6.0/SDL2.dll.config
+/home/keiichi/Coding/C#/SDL2/bin/Debug/net6.0/SDL2.deps.json
+/home/keiichi/Coding/C#/SDL2/bin/Debug/net6.0/SDL2.runtimeconfig.json
+/home/keiichi/Coding/C#/SDL2/bin/Debug/net6.0/SDL2.dll
+/home/keiichi/Coding/C#/SDL2/bin/Debug/net6.0/ref/SDL2.dll
+/home/keiichi/Coding/C#/SDL2/bin/Debug/net6.0/SDL2.pdb
+/home/keiichi/Coding/C#/SDL2/obj/Debug/net6.0/SDL2.dll
+/home/keiichi/Coding/C#/SDL2/obj/Debug/net6.0/ref/SDL2.dll
+/home/keiichi/Coding/C#/SDL2/obj/Debug/net6.0/SDL2.pdb
+/home/keiichi/Coding/C#/SDL2/obj/Debug/net6.0/SDL2.genruntimeconfig.cache
