@@ -25,7 +25,7 @@ Console.WriteLine("Renderer Created");
 
 double angle = 0;
 
-int renderQuality = 0;
+int renderQuality = 2;
 
 while(is_running) {
 
